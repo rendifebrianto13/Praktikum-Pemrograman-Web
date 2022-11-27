@@ -5,7 +5,7 @@
  <body>
   <h1><center>BIODATA DIRI</center></h1>
   <table border=0>
-  <form action="output_biodata.php" method="POST">
+  <form action="tugas 4.2 output_biodata.php" method="POST">
   <tr>
    <td>Nama Lengkap</td>
    <td>:</td>
