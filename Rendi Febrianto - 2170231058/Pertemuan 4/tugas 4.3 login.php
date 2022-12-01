@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1><center>LOGIN</center></h1>
-<form method="POST" action="proses_login.php">
+<form method="POST" action="tugas 4.3 proses_login.php">
 <table width="400" align="center" cellpadding="2" cellspacing="2">
 	<tr>   
  	<td width="130">Nama :</td> 
